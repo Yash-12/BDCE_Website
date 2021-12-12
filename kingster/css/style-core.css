@@ -6241,3 +6241,10 @@ body .tribe-bar-views-inner {
 	cursor: pointer;
 	font-style: normal;
 }
+
+
+@media only screen and (max-width: 1260px){
+	.table-dash  tbody > tr > td:nth-child(1) {
+		width: 47%;
+	}
+}

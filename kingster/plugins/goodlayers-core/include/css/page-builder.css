@@ -25,7 +25,7 @@ p#m\.tech {
 .gdlr-core-right-align{ text-align: right; }
 
 .gdlr-core-content-container{ padding-top: 60px; padding-bottom: 40px; }
-.gdlr-core-line-height-0{ line-height: 0; } 
+/* .gdlr-core-line-height-0{ line-height: 0; }  */
 
 .gdlr-core-column-10{ float: left; width: 16.6666%; }
 .gdlr-core-column-12{ float: left; width: 20%; }
