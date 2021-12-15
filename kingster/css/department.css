@@ -1,0 +1,40 @@
+.frt > p {
+    color: white;
+} 
+
+.gap > h3{
+    margin-top: 0px;
+}
+
+.boz{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.label > h5{
+    color: #3db166;
+}
+
+.label > label{
+    text-align: justify;
+}
+
+.event > h3{
+    margin-top: 0px;
+}
+
+.color > p{
+    color: #3db166;
+}
+
+.gap{
+    margin-bottom: 135px;
+}
+
+.bordr{
+    text-align: left;
+}
+
+.sp{
+    margin-right: -240px;
+}
